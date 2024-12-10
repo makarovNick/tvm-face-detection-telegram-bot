@@ -58,6 +58,8 @@ The bot performs face detection on user-uploaded images and returns annotated re
 | ![image](https://github.com/user-attachments/assets/edbd2dec-13cf-4cbe-b57a-3ce57b5b7ca4) | ![image](https://github.com/user-attachments/assets/15c322ab-4c2e-4f5a-84b3-befa2d713e7b) |
 | ![image](https://github.com/user-attachments/assets/535a7826-b662-4483-9a6c-05d590fc6098) | ![image](https://github.com/user-attachments/assets/3c211cb1-56c1-4297-891a-7c7201af3e1d) |
 
+![image](https://github.com/user-attachments/assets/96e76157-b165-42c9-a9c9-7ac014668586)
+
 
 ## Deployment Instructions
 
