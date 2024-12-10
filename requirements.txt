@@ -1,0 +1,7 @@
+pytelegramBotAPI
+telebot==0.0.4
+opencv-python==4.8.0.74
+numpy==1.23.5
+tvm==0.10.0
+Pillow==9.5.0
+
